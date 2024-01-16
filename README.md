@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @EatsYou
+- 👋 Hi, I’m Elliot 
 - 👀 I’m interested in code, art, game design, undertale, and scott pilgrim vs. the world :3
 - 🌱 I’m currently learning python yeeee
 - 💞️ I’m looking to collaborate on nothing atm
